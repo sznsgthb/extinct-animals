@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background: url(./illustrations/background.svg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  line-height: 25px;
+  font-family: "PrehistorictimesLight", sans-serif;
+}
+
+@font-face {
+  font-family: "PrehistorictimesLight";
+  src: url("/src/fonts/PrehistorictimesLight-axodm.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}

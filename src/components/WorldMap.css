@@ -1,0 +1,5 @@
+.leaflet-container {
+    height: 750px; /* Adjust the height as needed */
+    width: 100%;
+    border: 3px solid rgb(60, 69, 73);
+}

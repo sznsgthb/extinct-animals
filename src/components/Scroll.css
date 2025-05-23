@@ -1,0 +1,10 @@
+body {
+    font-family: "PrehistorictimesLight", sans-serif;
+}
+
+.scroll-container {
+    overflow-y: scroll;
+    border: 3px solid rgb(60, 69, 73);
+    height: 750px;
+    background: rgba(255, 255, 250, 0.5);
+}

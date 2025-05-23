@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} /*SH: check this piece of code*/
+
+@font-face {
+  font-family: 'Prehistoric Times Light';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Prehistoric Times Light'), url(./PrehistorictimesLight-axodm.otf), format('truetype');
+}
+
+h1 {
+  color: rgb(14, 120, 120);
+}
+
+h2{
+  color: rgb(71, 72, 83);
+}

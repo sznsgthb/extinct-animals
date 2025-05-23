@@ -1,0 +1,20 @@
+body {
+    font-family: "PrehistorictimesLight", sans-serif;
+}
+
+h1 {
+    color: rgb(14, 120, 120) !important;
+}
+
+
+.TimelinePointContainer-sc-12rz3g8-1 .Shape-sc-18iuiou-3 {
+    display: none;
+}
+
+.TimelinePointContainer-sc-12rz3g8-1 {
+    background-image: url("../illustrations/fossil-icon.svg") !important;
+    background-size: cover;
+    width: 41px;
+    height: 40px;
+}
+
